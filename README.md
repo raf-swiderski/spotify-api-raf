@@ -5,7 +5,7 @@
 An app which uses Spotify's API to show a user's listening data.
 
 ## Tech Stack
-
+ 
 Node.js, Express framework, Standard Javascript/HTML/CSS
 
 ## Getting started
