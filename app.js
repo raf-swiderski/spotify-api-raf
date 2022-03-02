@@ -11,7 +11,7 @@ const axios = require('axios');
 var generateRandomString = require('./generateRandomString')
 
 const app = express()
-const port = 8888
+const port = process.env.PORT
 
 var client_id = process.env.CLIENT_ID;
 var client_secret = process.env.CLIENT_SECRET;
