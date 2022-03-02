@@ -80,7 +80,7 @@ app.get('/callback', (req, res) => {
           refresh_token
         })
 
-        res.redirect(`slopify.herokuapp.com/home?${queryParams}`)
+        res.redirect(`https://slopify.herokuapp.com/home?${queryParams}`)
 
       } else {
         res.redirect(`/?${querystring.stringify({
