@@ -4,7 +4,7 @@
 
 An app which uses Spotify's API to show a user's listening data.
 
-You can visit the delopyed app here: [https://slopify.herokuapp.com/](slopify.herokuapp.com)
+You can visit the delopyed app here: [slopify.herokuapp.com](slopify.herokuapp.com)
 
 ## Tech Stack
  
