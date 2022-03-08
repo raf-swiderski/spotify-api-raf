@@ -4,8 +4,6 @@
 
 An app which uses Spotify's API to show a user's listening data.
 
-You can visit the delopyed app here: [slopify.herokuapp.com](https://slopify.herokuapp.com/)
-
 ## Tech Stack
  
 Node.js, Express framework, Standard Javascript/HTML/CSS
